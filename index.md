@@ -10,20 +10,16 @@
 
 ### 挙式
 
-<span style="font-size:18px">2022/6/18 Sat.
-</span>
-
-<img src="sanmisa.png">
-
-### 挙式：石の教会
-
-集合：11:00
-挙式開始：11:30 
+* 日程：2022/6/18（土）11時30分（集合：11時）
+* 場所：[石の教会](https://www.stonechurch.jp/)
+* 会場住所：長野県安曇野市長野県北佐久郡軽井沢町永倉2144 星野リゾート 軽井沢ホテルブレストンコート
+* 電話：[0267-46-6200](tel:0267-46-6200)
+* HP：https://www.blestoncourt.com/wedding/
 
 [続きはこちら](information.md)
 
-#### 会場住所
 
-長野県安曇野市長野県北佐久郡軽井沢町永倉2144 星野リゾート 軽井沢ホテルブレストンコート
-電話：0267-46-6200
-https://www.blestoncourt.com/wedding/
+<img src="sanmisa.png">
+
+
+
