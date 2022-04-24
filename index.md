@@ -6,7 +6,7 @@
 
 <img src="modest.png">
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12854.34125223825!2d138.590089!3d36.346599!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfd856839cfa9f537!2sMODESTO!5e0!3m2!1sja!2sus!4v1650806124665!5m2!1sja!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12854.34125223825!2d138.590089!3d36.346599!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfd856839cfa9f537!2sMODESTO!5e0!3m2!1sja!2sus!4v1650806124665!5m2!1sja!2sus" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### 挙式
 
