@@ -63,6 +63,7 @@
 
 軽井沢駅南口より無料送迎バスをご利用いただけます。
 シーズンや曜日によって時刻が異なりますので、時刻表をご確認ください。
+
 * [ブレストンコート行き](https://www.blestoncourt.com/access/shuttlebus/)
 * [星のや軽井沢行き](https://hoshinoya.com/_admin/wp-content/uploads/sites/2/2022/02/2022%E5%B9%B43%E6%9C%881%E6%97%A5-9%E6%9C%8816%E6%97%A5%E8%BB%BD%E4%BA%95%E6%B2%A2%E9%A7%85%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AB%E3%83%90%E3%82%B9%E3%83%80%E3%82%A4%E3%83%A4.pdf)
 
