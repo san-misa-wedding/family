@@ -1,3 +1,5 @@
+<img src="sanmisa.jpeg">
+
 ### 両家顔合わせ食事会
 
 * 日程：2022/6/17（金）17:30
@@ -16,8 +18,6 @@
 * 電話：[0267-46-6200](tel:0267-46-6200)
 * HP：https://www.blestoncourt.com/wedding/
 
-
-<img src="sanmisa.png">
 
 #### 美容・着付けについて
 
